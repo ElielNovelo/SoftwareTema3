@@ -7,7 +7,7 @@ package softwaretema3;
 
 /**
  *
- * @author ALEXIS
+ * @author Eliel Novelo
  */
 public class DlgNewton extends javax.swing.JDialog {
 
