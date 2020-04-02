@@ -211,7 +211,7 @@ public class dlgJacobi extends javax.swing.JDialog {
         for (int i = 0; i < A.length; i++) {
             for (int j = 0; j < A.length; j++) {
                 A [i][j] = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese el valor de la matriz"
-                    + "En la posicion" + i + "-" + j));
+                    + " en la posicion : " + (i+1) + "-" + (j+1)));
         }
         }
 
