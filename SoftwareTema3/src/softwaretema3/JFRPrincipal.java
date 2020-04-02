@@ -132,7 +132,8 @@ public class JFRPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_JMNPuntoFijoActionPerformed
 
     private void JMNewtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_JMNewtonActionPerformed
-        // TODO add your handling code here:
+        DlgNewton vtn = new DlgNewton(this, true);
+        vtn.setVisible(true);
     }//GEN-LAST:event_JMNewtonActionPerformed
 
     /**
