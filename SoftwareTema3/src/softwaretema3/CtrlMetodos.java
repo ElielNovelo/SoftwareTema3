@@ -117,7 +117,7 @@ public class CtrlMetodos {
          
      }
      
-     //Ejercicio Punto Fijo
+     //Ejercicio vPunto Fijo
     public ArrayList<csFijo> PuntoFijo(double xo, double errorDeseado, int iteraciones){ 
         double x = this.funcion(xo);
         double errorCalculado=1;
