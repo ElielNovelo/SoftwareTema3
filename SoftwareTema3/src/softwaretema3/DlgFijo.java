@@ -13,7 +13,6 @@ import java.util.ArrayList;
  * @author M.Baeza
  */
 public class DlgFijo extends javax.swing.JDialog {
-
     /**
      * Creates new form DlgFijo
      */
