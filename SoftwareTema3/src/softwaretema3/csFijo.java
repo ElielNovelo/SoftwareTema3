@@ -7,7 +7,7 @@ package softwaretema3;
 
 /**
  *
- * @author 
+ * @author f
  */
 public class csFijo {
     private int iteracion;
